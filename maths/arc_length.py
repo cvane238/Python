@@ -1,7 +1,7 @@
 from math import pi
 
 
-def arc_length(angle: int, radius: int) -> float:
+def arc_length(angle: float, radius: float) -> float:
     """
     >>> arc_length(45, 5)
     3.9269908169872414
